@@ -22,6 +22,6 @@ export default defineEventHandler(async (_) => {
             'Testtype',
             'No Name',
             'no.name@test.com',
-        ),
+        )
     ];
 });
